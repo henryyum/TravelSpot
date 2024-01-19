@@ -11,7 +11,7 @@
 }
 
 .blogsPage-header {
-  background: url("/images/harley.jpeg");
+  background: url("../images/harley.jpeg");
   background-position: center;
   background-size: cover;
   background-color: #a5a5a5;
