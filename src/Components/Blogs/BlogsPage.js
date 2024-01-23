@@ -3,7 +3,7 @@ import featuredBlogsAndArticles from "../../Data/BlogsAndArticlesData";
 import BlogArticleCard from "./BlogArticleCard";
 import "./BlogsPage.css";
 
-export default function Destinations() {
+export default function BlogsPage() {
   return (
     <>
       <div className="blogsPage-header">
