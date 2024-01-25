@@ -77,7 +77,7 @@ export default function HomePage() {
         <div className="explore-btn-container">
           <Link to="destinations">
             <button onClick={scrollToTop} className="main-btn destination-btn">
-              View all destination
+              View all destinations
             </button>
           </Link>
         </div>
