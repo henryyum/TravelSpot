@@ -1,1 +1,1 @@
-Travel Website Landing Project
+Travel Website Landing Page
