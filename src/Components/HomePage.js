@@ -33,7 +33,7 @@ export default function HomePage() {
         const exploreRes = await get("/explore");
         const exploreData = await exploreRes;
         setFeaturedCards(exploreData);
-
+        
         const tourRes = await get("/tours");
         const tourData = await tourRes;
         setFeaturedTours(tourData);

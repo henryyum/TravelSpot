@@ -23,7 +23,7 @@ export default function Header(props) {
           src="images/hamburger.png"
           alt="hamburger"
         ></img>
-
+        
         {isHamburgerOpen && (
           <div className="header-hamburgerMenu">
             <nav>

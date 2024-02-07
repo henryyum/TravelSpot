@@ -13,7 +13,7 @@ export default function Footer(props) {
 
 
       <div className="footer-top-half">
-
+      
 
         <div className="footer-topleft">
         <Link onClick={scrollToTop} to=".">TravelSpot.Co</Link>
